@@ -18,7 +18,7 @@ Summaries are as follow:
 
 *June* ![This is an image](https://github.com/cazaresG/surfs_up/blob/59f72a202c85b84bdfc37c54f61721558e1f82e9/june_temps.jpg) 
 
-*December* ![This is an image](https://github.com/cazaresG/Amazon_Vine_Analysis/blob/903bd7c867289b34f6f51ded8a950024d43dd8dd/review_id_table.jpg) 
+*December* ![This is an image](https://github.com/cazaresG/surfs_up/blob/62077b11257c4092c9f54407c19752e821ea1f50/december_temps.jpg) 
 
 ## Conclusion
 
