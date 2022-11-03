@@ -9,7 +9,7 @@ The following tools will be used:
 
 ## Overview
 
-The analysis include temperature measurements from june and december-
+The analysis include temperature measurements from june and december.
 
 
  ## Results
