@@ -22,7 +22,7 @@ Summaries are as follow:
 
 ## Conclusion
 
-MAximun temperatures differ just 2 degrees, whereas mean temperature in june is 74.9 and 71 in december, both months have similar weather conditions.
+Maximun temperatures differ just 2 degrees, whereas mean temperature in june is 74.9 and 71 in december, both months have similar weather conditions.
 We conclude that it would be possible to open an ice cream shop.
 
 
